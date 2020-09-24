@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+## J. Zhuo
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
@@ -16,7 +17,6 @@ makeCacheMatrix <- function(x = matrix()) {
              setinv = setinv,
              getinv = getinv)
 }
-
 
 ## Write a short comment describing this function
 
